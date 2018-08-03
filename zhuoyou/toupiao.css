@@ -193,3 +193,8 @@ audio {
     position: fixed;
     opacity: 0;
 }
+
+.home {
+    width: 100vw;
+    margin-bottom: 50rem;
+}
