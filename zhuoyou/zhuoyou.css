@@ -144,3 +144,6 @@ p {
     color: #c33;    
 }
 
+audio {
+    opacity: 0;
+}
