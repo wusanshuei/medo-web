@@ -190,5 +190,6 @@ footer {
 }
 
 audio {
+    position: fixed;
     opacity: 0;
 }
